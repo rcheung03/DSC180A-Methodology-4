@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quarter 2 Project Brainstorm
+title: DSC 180A Methodology 4
 ---
 
 
